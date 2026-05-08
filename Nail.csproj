@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Nail</AssemblyName>
+    <RootNamespace>Nail</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject>Nail.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
